@@ -1,0 +1,26 @@
+﻿  Snap.cpp
+  Funkcja.cpp
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(177): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(178): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(204): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(204): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(211): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(225): warning C4244: 'argument': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(226): warning C4244: 'argument': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(352): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(353): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(355): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(89): warning C4715: 'Funkcja::assign': not all control paths return a value
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\funkcja.cpp(116): warning C4715: 'Funkcja::x_od_y': not all control paths return a value
+  Compiling...
+  main.cpp
+  Menu.cpp
+  Intro.cpp
+c:\users\hiepietel\documents\visual studio 2015\projects\mnis project\mnis project\intro.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  MNiS project.vcxproj -> C:\Users\hiepietel\Documents\Visual Studio 2015\Projects\MNiS project\Debug\MNiS project.exe
+  MNiS project.vcxproj -> C:\Users\hiepietel\Documents\Visual Studio 2015\Projects\MNiS project\Debug\MNiS project.pdb (Full PDB)
